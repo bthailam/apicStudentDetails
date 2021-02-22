@@ -1,6 +1,8 @@
-{
-    "studentFName": "Tim",
-    "studentLName": "Kim",
-    "class": "microservices",
-    "rollNumber": 1
+{"studentId" : 1
+     "studentDetails": {
+        "studentFName": "Tim",
+        "studentLName": "Kim",
+        "class": "microservices",
+        "rollNumber": 1
+        }
 }

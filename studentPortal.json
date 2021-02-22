@@ -5,14 +5,12 @@ students{
       "studentLName": "Kim",
       "class": "microservices",
       "rollNumber": 1
-      }
-   },
-   {"studentId" : 2,
+      },
+   "studentId" : 2,
    "studentDetails": {
       "studentFName": "Tom",
       "studentLName": "Kapoor",
       "class": "microservices",
       "rollNumber": 2
       }
-   }
 }

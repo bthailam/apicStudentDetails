@@ -1,16 +1,13 @@
-"students":{
-   "studentId" : 1,
-   "studentDetails": {
+[{"studentId" : 1,
       "studentFName": "Tim",
       "studentLName": "Kim",
       "class": "microservices",
       "rollNumber": 1
       },
-   "studentId" : 2,
-   "studentDetails": {
+{"studentId" : 2,
       "studentFName": "Tom",
       "studentLName": "Kapoor",
       "class": "microservices",
       "rollNumber": 2
-      }
 }
+]

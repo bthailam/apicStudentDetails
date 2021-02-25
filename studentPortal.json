@@ -1,4 +1,4 @@
-[{"studentId" : 1,
+{{"studentId" : 1,
       "studentFName": "Tim",
       "studentLName": "Kim",
       "class": "microservices",
@@ -9,5 +9,5 @@
       "studentLName": "Kapoor",
       "class": "microservices",
       "rollNumber": 2
+      }
 }
-]
